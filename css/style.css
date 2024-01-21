@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "product-sans";
+  src: url("../Product-Sans-Regular.ttf");
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
